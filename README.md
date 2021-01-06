@@ -34,6 +34,6 @@ Click this for the meme: [( ͡° ͜ʖ ͡°)](https://www.youtube.com/watch?v=dQw
 
 Link to the [top of this page](https://github.com/stephenwang51924/stephenwang51924.github.io/tree/main#stephen-wangs-user-page).
 
-[Profile picture](ayy.jpg)
+[Profile picture relative link](ayy.jpg)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
