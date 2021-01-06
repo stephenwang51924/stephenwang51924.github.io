@@ -1,7 +1,21 @@
-# Stephen Wang's User Page
+# **Stephen Wang's User Page**
 
 ![me](ayy.jpg)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-My favorite programming language is Java.
+I am a second-year student at UCSD majoring in Computer Science.
+
+### **My Hobbies**
+
+- Reading
+- Running
+- Playing videogames
+
+### **Fantasy Series Progress**
+
+- [x] A Song of Ice and Fire
+- [x] First Law/Age of Madness
+- [x] Harry Potter
+- [ ] The Wheel of Time
+- [ ] The Witcher
